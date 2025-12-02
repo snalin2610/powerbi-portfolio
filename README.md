@@ -118,7 +118,7 @@ Provide HR and management with insights on employee headcount, attrition, hiring
 - KPI cards for quick executive summary
 - Custom tooltips for richer hover insights
 ### HR Analytics – Dashboard Preview
-![Retail Dashboard](HR Analytics.png)
+![Retail Dashboard](HR_Analytics.png)
 ---
 
 ## 📌 How I Work
